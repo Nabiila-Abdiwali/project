@@ -1,0 +1,248 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.parent{
+
+    
+    height: 75vh;
+    background: linear-gradient(120deg, rgb(104, 90, 233), darkblue
+    );
+
+    padding-top: 30px;
+ 
+}
+
+
+
+.pren h1{
+    font-size: 70px;
+
+    
+    padding-top: 60px;
+   
+}
+.pren {
+ margin-top: 30px;
+    color: white;
+    padding: 40px;
+
+
+}
+.mm{
+    display: flex;
+
+justify-content: center;
+justify-content: space-around;
+padding-left: 70px;
+
+
+
+}
+.pren1 img{
+    height: 60vh;
+    padding-top: 30px;
+}
+
+.pren p{
+    
+    line-height: 20px;
+}
+.pren button{
+
+ width: 170px;
+ border: none;
+ margin: 20px 5px;
+    height: 45px;
+    font-size: 17px;
+    
+    
+}
+.prr{
+
+background-color: purple;
+color: white;
+}
+.position1{
+    padding: 30px;
+    width: 350px;
+    height: 140px;
+    background-color: rgb(255, 245, 245);
+    color: black;
+    padding-left: 50px;
+    display: flex;
+    border-radius: 15px;
+    box-shadow: 4px 5px 6px 4px rgb(214, 210, 210);
+    
+}
+.position1 i{
+    background-color: rgb(176, 235, 243);
+   
+  height: 45px;
+  border-radius: 50%;
+    color: rgb(199, 28, 28);
+font-size: 40px;
+margin-top: 35px;
+padding-top: 5px;
+
+}
+
+.ii{
+    padding-left: 20px;
+}
+
+.position1 h1{
+    margin-top: 10px;
+}
+.position{
+ 
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: center;
+    gap: 170px;
+    padding-right: 60px;
+
+}
+.position1 h1{
+    text-align: left;
+}
+
+.center{
+
+    margin-top: 10%;
+    padding: 30px;
+    color: darkblue;
+    display: flex;
+    padding-left: 8%;
+
+}
+.center i{
+color: rgb(243, 44, 177);
+font-size: 50px;
+padding-left: 10%;
+padding-top: 20px;
+line-height: 20px;
+
+}
+
+.ss{
+   padding-left: 30px;
+   font-size: 20px;
+    
+}
+.ss p{
+    color: black;
+    font-size: 15px;
+    padding-top: 8px;
+    
+ 
+   
+    
+}
+.luu{
+    display: flex;
+    margin-top: 4.5%;
+    padding-left: 15%;
+    font-size: 25px;
+    gap: 20px;
+
+  
+   
+   
+}
+
+ul li {
+list-style: none;
+
+}
+.luu h6{
+
+
+    color: black;
+    font-size: 20px;
+   padding-top: 3px;
+}
+
+
+ul li a{
+
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px;
+    color: black;
+  
+}
+ul li a:hover{
+    color: rgb(233, 151, 0);
+    
+}
+.baxx{
+ 
+    margin-top: 90px;
+}
+
+.boxx1 i{
+    color: orange;
+    padding-bottom: 10px;
+    
+
+}
+
+span{
+    color: rgb(73, 73, 255);
+}
+.boxx1 p{
+    padding-bottom: 10px ;
+}
+
+.boxx1 h1{
+    font-size: 15px;
+    line-height: 20px;
+}
+.boxx1 h2{
+
+    font-size: 17px;
+}
+.boxx{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+gap: 30px;
+    margin-top: 20px;
+
+
+  
+}
+.boxx1{
+    box-shadow: 1px -4px 4px rgb(207, 199, 199); 
+    background-color: rgb(236, 236, 236); 
+}
+
+@media screen and (max-width: 600px) {
+
+.mm{
+
+    display: flex;
+    flex-direction: column;
+width: 100%;
+
+}
+
+.pren1{
+
+
+}
+
+
+  
+ 
+
+
+
+
+   
+
+
+}
